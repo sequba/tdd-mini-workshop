@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "test:cheatsheet": "vitest vitest-cheatsheet",
+    "test:task1": "vitest task1",
+    "test:task2": "vitest task2"
+  },
+  "devDependencies": {
+    "vitest": "^0.34.6"
+  }
+}
